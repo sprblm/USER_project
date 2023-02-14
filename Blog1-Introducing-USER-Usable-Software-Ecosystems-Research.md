@@ -4,7 +4,7 @@ This post is part one in a series of in-progress research updates from the USER 
 
 By Katie Wilson
 
-![FOSDIC](FOSDIC.jpg)
+![FOSDIC](https://raw.githubusercontent.com/simplysecure/USER_project/main/images/FOSDIC.jpg)
 
 In November, we began an exciting new project funded by the [Sloan Foundation](https://sloan.org/). We’ve named it “USER” — short for Usable Software Ecosystem Research – a research initiative that explores how open source scientific and research software (S&R OSS) teams understand, consider, and undertake usability and design opportunities in their projects. We at Superbloom have dedicated ourselves to understanding and sharing how designers work and how design is practiced within open source teams and communities for years (see Open Source Design and our podcasts on Sustaining Open Source Design), but the USER project presents a new opportunity for us to dig into these questions within academic and scientific communities in particular. It’s also an invitation to reflect on our own experiences of doing design and usability work across the open source software (OSS) ecosystem.
 
