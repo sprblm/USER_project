@@ -14,4 +14,4 @@ No literature list is ever complete and this one was 'complete' in terms of the 
 
 | Paper, Article or Book  | Link/Source | Keywords   | Date of publication | Date of add to this list | notes/analysis/comments|
 |:--------------:|:----------------------:| ----------:|:-------------:|:-------------:| ------------:|
-| Open Source, Open Science, and the Replication Crisis in HCI. | [Link](https://dl.acm.org/doi/10.1145/3170427.3188395)| Open Research, Software artifacts, Replicated, HCI as science, No Source code, Publishing, Contributing HCI, Community, Not invented here, Extrinsic, Social, HCI openness          | 20/04/2018  | 14/02/2023 |
+| Open Source, Open Science, and the Replication Crisis in HCI. | [Link](https://dl.acm.org/doi/10.1145/3170427.3188395)| Open Research, Software artifacts, Replicated, HCI as science, No Source code, Publishing, Contributing HCI, Community, Not invented here, Extrinsic, Social, HCI openness | 20/04/2018  | 14/02/2023 |
