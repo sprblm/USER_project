@@ -1,9 +1,7 @@
 
-# Information on how we came to these research questions
-
+# Research questions
 
 ----
-
 
 - Do scientific open source projects think about their users?
 - When and how do scientific open source projects prioritize usability & design?
