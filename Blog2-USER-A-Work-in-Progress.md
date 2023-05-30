@@ -1,4 +1,4 @@
-This post is part two in a series of in-progress research updates from the USER team. Also published on the [Superbloom website]([https://simplysecure.org/blog/introducing-user-usable-software-ecosystem-research/](https://simplysecure.org/blog/user-a-work-in-process/).
+This post is part two in a series of in-progress research updates from the USER team. Also published on the [Superbloom website](https://simplysecure.org/blog/user-a-work-in-process/).
 
 # USER: A Work In Process
 
