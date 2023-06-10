@@ -1,8 +1,7 @@
 # People and Projects
 
-Here's a WIP list of the people and projects involved in Science and Research OSS projects, institutions and initiatives that we identified pre-outreach efforts as potential participants in interviews, surveys and work around the USER project.
+Here's a work in progress (WIP) list of the people and projects involved in Science and Research OSS projects (SROSS), institutions and initiatives that we identified pre-outreach efforts as potential participants in interviews, surveys and work around the USER project.
 
-----
 
 ## Contributing to this list
 
@@ -12,4 +11,10 @@ If you'd like to contribute a person or project to this list then please make a 
 
 ----
 
-LIST WIP
+| Name of organisation or project  | Contact info (public) | Purpose of SROSS   | Publications | Area of Science/Research | Notes|
+|:--------------:|:----------------------:| ----------:|:-------------:|:-------------:| ------------:|
+  
+|          |             | -          | -             | -             | -            |
+| -             | -             | -          | -             | -             | -            |
+| -           | -             | -          | -             | -             | -            |
+| -             | -             | -          | -             | -             | -            |
