@@ -1,0 +1,8 @@
+# Limitations
+
+Our research tried to cover a wide range of projects and people working on them. To understand what our results apply to, we want to speak to the research’s limitations. 
+
+Our research focused mainly on United States-based (or founded) projects with some European-based projects included. This has two reasons. Firstly, the organization that funded this research, the Sloan Foundation, focuses on research and academia in the US. Secondly, a lot of projects in open source research software are created at universities in the US or Europe, because these nations and states and their economies are typically able to fund such projects.
+As a project concerned with both academia and the production of open source code, our sample also reflects the implicit prioritization of over-represented identities and backgrounds in regards to gender, race, and class and other factors in both academia and open source software communities.
+
+Lastly, a limitation present in this research was time and capacity to include and recruit additional projects and people in the research process beyond those that volunteered through our initial outreach efforts.  When making efforts to include under-represented majority/minority identities and populations (BIPOC, LGBTQIA+ etc.) time, capacity and voluntary self-identification is always a factor. We made efforts to signal that we wanted to speak to people and projects that were under-represented but due to time and capacity could not extend our deadlines to include those not readily available to participate.
