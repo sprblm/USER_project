@@ -1,6 +1,9 @@
-# Contributors and contribution 
 
-## SROSS is sustained by contributors
+# Part 1: The State of Science and Research Open Source Software (SROSS) Projects
+
+## Contributors and contribution 
+
+### SROSS is sustained by contributors
 
 Contributors are commonly understood as people who work towards the mission of an open source project on a voluntary basis. A contributor’s role in a project somewhat differs from that of a maintainer’s. A participant who identifies as a full-time developer clarified that maintainers are accountable for the project’s stability, quality and progress while contributors can contribute in their own capacity, desire and capability without being held accountable. Maintainers also often have a decision making role which contributors may not. Anyone who cares about an OS project has the opportunity to contribute to it, which is one of the biggest differentiators with commercial software development. In fact, resource constraints in OS writ large, including in academia, and research organizations necessitate contributions to ensure project sustainability. Contribution is important to projects because it is also “a way of building trust with the community, even if it’s a small number of citizens who are willing or able to participate in the development and maintenance of it”, said a participant who identifies themselves as a researcher.
 

@@ -1,4 +1,6 @@
-# Values and Attitudes of Open Science and Open Source
+# Part 1: The State of Science and Research Open Source Software (SROSS) Projects
+
+## Values and Attitudes of Open Science and Open Source
 
 We asked interviewees and survey respondents about the core values of their software projects in order to understand what primary motivations exist for individual contributors and teams. While the responses varied, most participants spoke about impact, improving science, equity, accessibility, openness, or quality/stability of the software. To dig into the practical, symbolic, and ideological importance of these projects being Open Source projects, we also asked our interviewees what the effects of their projects being OS is: Why is OS important for their work? 
 
