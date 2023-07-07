@@ -24,7 +24,7 @@ There is a strong focus on what people on these channels say they need. As one i
 
 The “community need” was the strongest pressure on software development in our survey, even slightly larger than the obvious “research need.”
 
-![chart-what-other-pressures-drive-your-projects-work](https://assets.digitalocean.com/articles/alligator/boo.svg "chart-what-other-pressures-drive-your-projects-work")
+![chart-what-other-pressures-drive-your-projects-work](https://raw.githubusercontent.com/simplysecure/USER_project/11f3af7b8365f52dc1878db42733241579ac6e7c/USER%20Findings%20by%20chapter/Part%201%20-%20The%20State%20of%20Science%20and%20Research%20Open%20Source%20Software%20SROSS%20Projects/chart-what-other-pressures-drive-your-projects-work.png "chart-what-other-pressures-drive-your-projects-work")
 
 
 ### Communication channels are structured around the activities of developers
@@ -47,13 +47,13 @@ The pattern of knowing users but not using formal methods or designating separat
 
 Only few projects mentioned thew worked with UX/UI designers:
 
-![has-your-team-ever-included-a-designer](https://assets.digitalocean.com/articles/alligator/boo.svg "has-your-team-ever-included-a-designer") 
+![has-your-team-ever-included-a-designer](https://raw.githubusercontent.com/simplysecure/USER_project/11f3af7b8365f52dc1878db42733241579ac6e7c/USER%20Findings%20by%20chapter/Part%201%20-%20The%20State%20of%20Science%20and%20Research%20Open%20Source%20Software%20SROSS%20Projects/has-your-team-ever-included-a-designer.png "has-your-team-ever-included-a-designer") 
 
 This matches our observation that most projects did not use methods of UX professionals to get to know their users. “Knowing users well” for UX professionals usually implies a process of research: conducting data via interviews, observations, and surveys. They synthesize this data and create formal abstractions like “personas”, “scenarios” or “user journeys”, genres of documents that summarize what they learned about users. None of our projects had such research and representations. If at all, they used low-resource methods of testing existing parts of the software.
 
 However, despite usually not having a single project member tasked with learning about users, most projects had the impression they know their users well. Not a single participant in our survey answered “No” to the question: “Do you feel you have a good sense of who the users of your project are?” 
 
-![do-you-have-a-good-sense-of-who-the-users-of-your-project-are](https://assets.digitalocean.com/articles/alligator/boo.svg "do-you-have-a-good-sense-of-who-the-users-of-your-project-are")
+![do-you-have-a-good-sense-of-who-the-users-of-your-project-are](https://raw.githubusercontent.com/simplysecure/USER_project/11f3af7b8365f52dc1878db42733241579ac6e7c/USER%20Findings%20by%20chapter/Part%201%20-%20The%20State%20of%20Science%20and%20Research%20Open%20Source%20Software%20SROSS%20Projects/do-you-have-a-good-sense-of-who-the-users-of-your-project-are.png "do-you-have-a-good-sense-of-who-the-users-of-your-project-are")
 
 ### Conclusion
 
