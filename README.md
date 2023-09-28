@@ -6,3 +6,5 @@ In this repo, you'll find open notes and resources relating to this work. Contac
 This project's first phase was completed in July 2023. Future phases and research is pending future funding.
 
 If you would like to contribute to this project and research you can find more details in [Our contribution documentation](https://github.com/simplysecure/USER_project/blob/main/contributing.md)
+
+You can find this projects [companion repository for the website here](https://github.com/simplysecure/user_project_website/tree/main)
