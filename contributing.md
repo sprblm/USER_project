@@ -1,4 +1,4 @@
-# Contributing o the USER project
+# Contributing to the USER project
 
 Contribute to this research by [Participating in discussions](https://github.com/simplysecure/USER_project/discussions)
 
